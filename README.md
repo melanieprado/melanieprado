@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Melanie Prado
-- 📚 I am a junior Computer Science student at The University of Central Florida
-- 💻 Incoming SWE Intern at Spectrum
-- 🌱 I’m currently learning Amazon Web Services (AWS), System Software, Algorithms for Machine Learning
+- 📚 I am a senior Computer Science student at The University of Central Florida
+- 💻 SWE Intern at Spectrum
 - 👀 I’m interested in Software Engineering
 - 📫 How to reach me: me967171@ucf.edu or spradomelanie@gmail.com
